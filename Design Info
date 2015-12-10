@@ -11,3 +11,31 @@ Basic Prison Assets
   Trays
   Cups
   
+Tutorial Map
+  Holding Cell with 2 Guards at a police station
+  Holding Cell
+    Bench
+    toilet/sink
+    fluorescent light with metal bars over
+  Basic layout for police station
+    Desk
+    Chair
+    PC
+    Cup
+    Pens
+    Phone
+    Paper
+    Pot plant
+    Various Rooms
+    
+Features
+  Day Night
+  Basic Guard AI +  Random Patrols/Fixed Patrols
+  Basic Weapons
+  Weapon Holding Mechanics + Weapons
+  Keys
+  Instructions + Tutorials
+    Guard standing with back towards cell, has key on waist, instructions given to steal keys. Distraction occurs, guard moves away
+    User unlocks door. Guard is down corridor looking into room with screaming guy. User moves down corriodor. 
+  Alert System + cone of vision
+  
