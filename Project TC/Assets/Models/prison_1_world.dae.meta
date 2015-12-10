@@ -11,27 +11,32 @@ ModelImporter:
     100006: ID11
     100008: ID31
     100010: //RootNode
+    100012: group_3
     400000: group_0
     400002: group_1
     400004: group_2
     400006: ID11
     400008: ID31
     400010: //RootNode
+    400012: group_3
     2300000: group_0
     2300002: group_1
     2300004: group_2
     2300006: ID11
     2300008: ID31
+    2300010: group_3
     3300000: group_0
     3300002: group_1
     3300004: group_2
     3300006: ID11
     3300008: ID31
+    3300010: group_3
     4300000: group_0
     4300002: ID11
     4300004: group_1
     4300006: group_2
     4300008: ID31
+    4300010: group_3
     9500000: //RootNode
   materials:
     importMaterials: 1
