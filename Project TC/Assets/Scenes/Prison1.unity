@@ -3639,6 +3639,52 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: ba88575decabdd3408b7a175b730f732, type: 3}
   m_PrefabInternal: {fileID: 980341944}
+--- !u!1001 &1087626669
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1410882788}
+    m_Modifications:
+    - target: {fileID: 400020, guid: 88b3a0a96358ce14e979d83634f0c8c2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: .694769859
+      objectReference: {fileID: 0}
+    - target: {fileID: 400020, guid: 88b3a0a96358ce14e979d83634f0c8c2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.0197897
+      objectReference: {fileID: 0}
+    - target: {fileID: 400020, guid: 88b3a0a96358ce14e979d83634f0c8c2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.97838879
+      objectReference: {fileID: 0}
+    - target: {fileID: 400020, guid: 88b3a0a96358ce14e979d83634f0c8c2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400020, guid: 88b3a0a96358ce14e979d83634f0c8c2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400020, guid: 88b3a0a96358ce14e979d83634f0c8c2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -.500000119
+      objectReference: {fileID: 0}
+    - target: {fileID: 400020, guid: 88b3a0a96358ce14e979d83634f0c8c2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: .49999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 400020, guid: 88b3a0a96358ce14e979d83634f0c8c2, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 88b3a0a96358ce14e979d83634f0c8c2, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &1087626670 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400020, guid: 88b3a0a96358ce14e979d83634f0c8c2, type: 3}
+  m_PrefabInternal: {fileID: 1087626669}
 --- !u!1001 &1161615316
 Prefab:
   m_ObjectHideFlags: 0
@@ -3971,6 +4017,7 @@ Transform:
   - {fileID: 433436117}
   - {fileID: 758123332}
   - {fileID: 980341945}
+  - {fileID: 1087626670}
   m_Father: {fileID: 0}
   m_RootOrder: 8
 --- !u!1 &1476302723 stripped
