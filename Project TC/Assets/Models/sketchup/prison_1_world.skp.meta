@@ -5,19 +5,19 @@ licenseType: Free
 SketchUpImporter:
   generateBackFace: 0
   mergeCoplanarFaces: 0
-  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f0000001000000011000000120000001300000014000000
   assetHash:
     serializedVersion: 2
-    Hash: 1a2edbecb2db62b5442d68ef6d5ade3f
+    Hash: f13f4c35c93a1db89b59f3f1c8d2c8b0
   longitude: -105.24213899999999
   latitude: 40.018309000000002
   northCorrection: -0
   fileUnit: 0
   sketchUpImportData:
     defaultCamera:
-      position: {x: -3.71290708, y: 14.187911, z: -50.4056587}
-      lookAt: {x: -6.6257596, y: -21.873188, z: 44.7038918}
-      up: {x: -.0108482772, y: .93510133, z: .354214519}
+      position: {x: 58.6650009, y: 35.9054642, z: -44.7204514}
+      lookAt: {x: -19.4162731, y: -11.7593927, z: -.154886246}
+      up: {x: -.406814009, y: .883509457, z: .232192606}
       fov: 35
       aspectRatio: 0
       orthoSize: 1
@@ -38,6 +38,8 @@ SketchUpImporter:
     100020: Group 7
     100022: Group 9
     100024: //RootNode
+    100026: Group 17
+    100028: Group 19
     400000: bar_frame
     400002: bar_frame 1
     400004: bar_frame 2
@@ -51,6 +53,8 @@ SketchUpImporter:
     400020: Group 7
     400022: Group 9
     400024: //RootNode
+    400026: Group 17
+    400028: Group 19
     2300000: bar_frame
     2300002: bar_frame 1
     2300004: bar_frame 2
@@ -63,6 +67,8 @@ SketchUpImporter:
     2300018: Group 5
     2300020: Group 7
     2300022: Group 9
+    2300024: Group 17
+    2300026: Group 19
     3300000: bar_frame
     3300002: bar_frame 1
     3300004: bar_frame 2
@@ -75,6 +81,8 @@ SketchUpImporter:
     3300018: Group 5
     3300020: Group 7
     3300022: Group 9
+    3300024: Group 17
+    3300026: Group 19
     4300000: Mesh Group 1
     4300002: Mesh Group 3
     4300004: Mesh Group 5
@@ -84,6 +92,8 @@ SketchUpImporter:
     4300012: Mesh Group 13
     4300014: Mesh Group 15
     4300016: Mesh bar_frame
+    4300018: Mesh Group 17
+    4300020: Mesh Group 19
     11100000: //RootNode
   materials:
     importMaterials: 1
