@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+    <asset>
+        <contributor>
+            <authoring_tool>SketchUp 16.0.19912</authoring_tool>
+        </contributor>
+        <created>2015-12-18T06:29:53Z</created>
+        <modified>2015-12-18T06:29:53Z</modified>
+        <unit meter="0.0254" name="inch" />
+        <up_axis>Z_UP</up_axis>
+    </asset>
+    <library_visual_scenes>
+        <visual_scene id="ID1">
+            <node name="SketchUp">
+                <node id="skp_camera" name="Last Saved SketchUp View">
+                    <lookat>-140.9213 209.7551 171.347 1874.167 -2791.492 -1555.435 0.2402651 -0.3578478 0.9023401</lookat>
+                </node>
+                <node id="ID2" name="group_0">
+                    <matrix>1 0 0 -47.28249 0 1 0 -0.984252 0 0 1 -6.394885e-014 0 0 0 1</matrix>
+                </node>
+            </node>
+        </visual_scene>
+    </library_visual_scenes>
+    <scene>
+        <instance_visual_scene url="#ID1" />
+    </scene>
+</COLLADA>

@@ -64,6 +64,10 @@ ModelImporter:
     100112: Group28
     100114: Group29
     100116: Mesh29
+    100118: Group30
+    100120: Mesh30
+    100122: Mesh31
+    100124: Group31
     400000: Group1
     400002: Group10
     400004: Group11
@@ -123,6 +127,10 @@ ModelImporter:
     400112: Group28
     400114: Group29
     400116: Mesh29
+    400118: Group30
+    400120: Mesh30
+    400122: Mesh31
+    400124: Group31
     2300000: Mesh1
     2300002: Mesh10
     2300004: Mesh11
@@ -152,6 +160,8 @@ ModelImporter:
     2300052: Mesh8
     2300054: Mesh9
     2300056: Mesh29
+    2300058: Mesh30
+    2300060: Mesh31
     3300000: Mesh1
     3300002: Mesh10
     3300004: Mesh11
@@ -181,6 +191,8 @@ ModelImporter:
     3300052: Mesh8
     3300054: Mesh9
     3300056: Mesh29
+    3300058: Mesh30
+    3300060: Mesh31
     4300000: Mesh1
     4300002: Mesh2
     4300004: Mesh3
@@ -210,6 +222,39 @@ ModelImporter:
     4300052: Mesh27
     4300054: Mesh28
     4300056: Mesh29
+    4300058: Mesh30
+    4300060: Mesh31
+    6400000: Mesh1
+    6400002: Mesh10
+    6400004: Mesh11
+    6400006: Mesh12
+    6400008: Mesh13
+    6400010: Mesh14
+    6400012: Mesh15
+    6400014: Mesh16
+    6400016: Mesh17
+    6400018: Mesh18
+    6400020: Mesh19
+    6400022: Mesh2
+    6400024: Mesh20
+    6400026: Mesh21
+    6400028: Mesh22
+    6400030: Mesh23
+    6400032: Mesh24
+    6400034: Mesh25
+    6400036: Mesh26
+    6400038: Mesh27
+    6400040: Mesh28
+    6400042: Mesh29
+    6400044: Mesh3
+    6400046: Mesh4
+    6400048: Mesh5
+    6400050: Mesh6
+    6400052: Mesh7
+    6400054: Mesh8
+    6400056: Mesh9
+    6400058: Mesh30
+    6400060: Mesh31
   materials:
     importMaterials: 1
     materialName: 0
@@ -236,7 +281,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 100
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
