@@ -68,6 +68,37 @@ ModelImporter:
     100120: Mesh30
     100122: Mesh31
     100124: Group31
+    100126: briefingroom
+    100128: carpark1
+    100130: carpark2
+    100132: Cell1
+    100134: Cell2
+    100136: Cell3
+    100138: Cell4
+    100140: Cell5
+    100142: Cell6
+    100144: Cell7
+    100146: Cellhall1
+    100148: Cellhall2
+    100150: Cells_security
+    100152: entryhall
+    100154: femalelockers
+    100156: interrogation1
+    100158: interrogation2
+    100160: Interrogration_view
+    100162: Largeroom1
+    100164: Largeroom1_hall
+    100166: Largeroom2
+    100168: lockerhall
+    100170: malelockers
+    100172: office_small1
+    100174: office_small2
+    100176: office_small3
+    100178: offices
+    100180: reception
+    100182: security
+    100184: Shadowbox
+    100186: Storeroom
     400000: Group1
     400002: Group10
     400004: Group11
@@ -131,6 +162,37 @@ ModelImporter:
     400120: Mesh30
     400122: Mesh31
     400124: Group31
+    400126: briefingroom
+    400128: carpark1
+    400130: carpark2
+    400132: Cell1
+    400134: Cell2
+    400136: Cell3
+    400138: Cell4
+    400140: Cell5
+    400142: Cell6
+    400144: Cell7
+    400146: Cellhall1
+    400148: Cellhall2
+    400150: Cells_security
+    400152: entryhall
+    400154: femalelockers
+    400156: interrogation1
+    400158: interrogation2
+    400160: Interrogration_view
+    400162: Largeroom1
+    400164: Largeroom1_hall
+    400166: Largeroom2
+    400168: lockerhall
+    400170: malelockers
+    400172: office_small1
+    400174: office_small2
+    400176: office_small3
+    400178: offices
+    400180: reception
+    400182: security
+    400184: Shadowbox
+    400186: Storeroom
     2300000: Mesh1
     2300002: Mesh10
     2300004: Mesh11
